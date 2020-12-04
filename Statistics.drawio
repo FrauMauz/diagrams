@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T15:48:13.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="_qGw3buWO7azTGctlNBj" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T15:49:23.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="hxpP8WpbJqbqHxYYcjB-" version="13.10.6" type="github">
   <diagram id="IJtol5KpIU2qQ6XiAhYa" name="Milch-symp">
     <mxGraphModel dx="786" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,10 +60,10 @@
               <mxPoint x="200" y="350" />
               <mxPoint x="240" y="380" />
               <mxPoint x="280" y="350" />
-              <mxPoint x="320" y="290" />
+              <mxPoint x="320" y="260" />
               <mxPoint x="360" y="380" />
               <mxPoint x="400" y="423" />
-              <mxPoint x="440" y="333" />
+              <mxPoint x="440" y="330" />
               <mxPoint x="480" y="390" />
               <mxPoint x="520" y="330" />
             </Array>
@@ -77,14 +77,20 @@
               <mxPoint x="200" y="370" />
               <mxPoint x="240" y="400" />
               <mxPoint x="280" y="370" />
-              <mxPoint x="320" y="240" />
+              <mxPoint x="320" y="210" />
               <mxPoint x="360" y="400" />
               <mxPoint x="400" y="443" />
-              <mxPoint x="440" y="290" />
+              <mxPoint x="440" y="270" />
               <mxPoint x="480" y="420" />
               <mxPoint x="520" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HYq-Q3gPw1h8oCt1VAOc-21" value="wenig/schwach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYq-Q3gPw1h8oCt1VAOc-22" value="viel/stark" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
