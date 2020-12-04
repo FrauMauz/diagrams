@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T16:06:34.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="aaEL6R3tsZeVYgTAacbx" version="13.10.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-04T16:06:45.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="c0DaVNelpYJyGK3AkcF6" version="13.10.6" type="github" pages="3">
   <diagram id="IJtol5KpIU2qQ6XiAhYa" name="Milch-symp">
     <mxGraphModel dx="786" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,14 +311,6 @@
         <mxCell id="_1LqkYH3Rt8qq_xD_cXo-16" value="9.11." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="gOlF5CQQGiQbR5nWROI7-1">
           <mxGeometry x="500" y="450" width="40" height="20" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="3IaxcjQbsQGhLabUzOli" name="Page-3">
-    <mxGraphModel dx="786" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="zPTglL1VqWvgwYHZn128-0" />
-        <mxCell id="zPTglL1VqWvgwYHZn128-1" parent="zPTglL1VqWvgwYHZn128-0" />
       </root>
     </mxGraphModel>
   </diagram>
