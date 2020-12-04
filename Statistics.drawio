@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T15:49:23.141Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="hxpP8WpbJqbqHxYYcjB-" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T15:51:05.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="9uxxeQWs6dpkDAxv6Slp" version="13.10.6" type="github">
   <diagram id="IJtol5KpIU2qQ6XiAhYa" name="Milch-symp">
     <mxGraphModel dx="786" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,10 +87,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HYq-Q3gPw1h8oCt1VAOc-21" value="wenig/schwach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="410" width="100" height="20" as="geometry" />
+          <mxGeometry x="60" y="420" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HYq-Q3gPw1h8oCt1VAOc-22" value="viel/stark" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="60" height="20" as="geometry" />
+          <mxGeometry x="90" y="220" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HYq-Q3gPw1h8oCt1VAOc-23" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.6;exitY=-0.25;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#CCCCCC;" edge="1" parent="1" source="HYq-Q3gPw1h8oCt1VAOc-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="122" y="244" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
